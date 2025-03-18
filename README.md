@@ -35,11 +35,15 @@
 #### **Database**
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-FFD700?style=for-the-badge&logo=drizzle&logoColor=black)
+![Prisma ORM](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
 
 #### **Others**
 ![tRPC](https://img.shields.io/badge/tRPC-2596be?style=for-the-badge&logo=typescript&logoColor=white)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Azure VM](https://img.shields.io/badge/Azure%20VM-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
 #### **🧑‍💻 Currently Learning**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
