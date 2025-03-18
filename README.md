@@ -36,7 +36,6 @@
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Drizzle ORM](https://img.shields.io/badge/Drizzle%20ORM-FFD700?style=for-the-badge&logo=drizzle&logoColor=black)
-![Kysely](https://img.shields.io/badge/Kysely-4B8BBE?style=for-the-badge&logo=typescript&logoColor=white)
 
 #### **Others**
 ![tRPC](https://img.shields.io/badge/tRPC-2596be?style=for-the-badge&logo=typescript&logoColor=white)
@@ -52,7 +51,7 @@
 
 ### 📊 GitHub Stats
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Phoz07&show_icons=true&theme=radical)
 
 ---
 
