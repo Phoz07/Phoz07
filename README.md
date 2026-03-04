@@ -1,7 +1,7 @@
 # Hello I'm Phos
 
 ### 📌 About Me
-- 🎓 **I'm 1st year student at School of Information Technology KMITL**
+- 🎓 **I'm 2nd year student at School of Information Technology KMITL**
 - 💻 **I'm Full Stack Developer (Maybe...)**
 
 🔗 **[Know more about me](https://phosz.xyz)**
