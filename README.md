@@ -5,7 +5,7 @@
 
 Passionate about low-latency distributed systems, strict type safety, and real-time application state management.
 
-[Portfolio](https://phos-portfolio.maverxk07.workers.dev/) • [LinkedIn](https://linkedin.com/in/sakditadpinkaew) • [Resume / CV](https://phos-portfolio.maverxk07.workers.dev/) • [GitHub](https://github.com/Phoz07) • [Email](mailto:maverxk07@gmail.com)
+[Portfolio](https://phos-portfolio.maverxk07.workers.dev/) • [LinkedIn](https://linkedin.com/in/sakditadpinkaew) • [Resume / CV](https://drive.google.com/file/d/163xZG3jVYU28HNX5EkQ89uGQSiNJ5L0i/view?usp=drive_link) • [GitHub](https://github.com/Phoz07) • [Email](mailto:maverxk07@gmail.com)
 
 ---
 
